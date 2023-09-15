@@ -11,15 +11,15 @@
   
 </div>
 
-### Principais habilidades
+### Main skills
 
 
 
-### Ferramentas:
+### Tools:
 
 
 
-### Conhecimentos básicos:
+### Basic knowledge:
 
 
 
