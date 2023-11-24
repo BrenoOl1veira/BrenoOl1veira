@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c2777&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Breno+Juan+de+Oliveira;I'm+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Breno+Juan+de+Oliveira;I'm+Systems+Analyst;)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrenoOl1veira&show_icons=true&count_private=true&hide_border=true&title_color=1c2777&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Breno Juan Git Stats" /> 
