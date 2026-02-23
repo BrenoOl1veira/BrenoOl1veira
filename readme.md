@@ -130,18 +130,10 @@ optimizing pipelines and transforming data into strategic assets.
 - Cloud-native data engineering
 - End-to-end DataOps practices
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: (add your link)
-- Email: (optional)
-
----
-
 <div align="center">
 <br><p><b>Visitors Count</b></p>  
 <p><img src="https://profile-counter.glitch.me/{BrenoOl1veira}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c2777&height=120&section=footer"/>
+
