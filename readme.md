@@ -41,6 +41,9 @@ cicd-and-dataops/
   <img src="https://img.shields.io/badge/HADOOP-1b1a18?style=flat-square&logo=apachehadoop&logoColor=d97757" alt="Hadoop" />
   <img src="https://img.shields.io/badge/AIRFLOW-1b1a18?style=flat-square&logo=apacheairflow&logoColor=d97757" alt="Airflow" />
   <img src="https://img.shields.io/badge/POWER_BI-1b1a18?style=flat-square&logo=powerbi&logoColor=d97757" alt="Power BI" />
+  <img src="https://img.shields.io/badge/TOTVS_PROTHEUS-1b1a18?style=flat-square&logo=totvs&logoColor=d97757" alt="TOTVS Protheus" />
+  <img src="https://img.shields.io/badge/TOTVS_RM-1b1a18?style=flat-square&logo=totvs&logoColor=d97757" alt="TOTVS RM" />
+  <img src="https://img.shields.io/badge/ADVPL-1b1a18?style=flat-square&logo=totvs&logoColor=d97757" alt="AdvPL" />
   <img src="https://img.shields.io/badge/GIT-1b1a18?style=flat-square&logo=git&logoColor=d97757" alt="Git" />
   <img src="https://img.shields.io/badge/DOCKER-1b1a18?style=flat-square&logo=docker&logoColor=d97757" alt="Docker" />
 </p>
