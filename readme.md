@@ -142,11 +142,6 @@ guest@obrenin.dev ~ $ tail focus.log
 ## ■ GITHUB
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrenoOl1veira&show_icons=true&count_private=true&bg_color=141413&title_color=d97757&icon_color=e39a7a&text_color=faf9f5&border_color=33312c&border_radius=0" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoOl1veira&layout=compact&bg_color=141413&title_color=d97757&text_color=faf9f5&border_color=33312c&border_radius=0" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=BrenoOl1veira&background=141413&border=33312c&stroke=33312c&ring=d97757&fire=d97757&currStreakNum=faf9f5&sideNums=faf9f5&currStreakLabel=d97757&sideLabels=b0aea5&dates=b0aea5&border_radius=0" alt="GitHub streak" />
 </p>
 
